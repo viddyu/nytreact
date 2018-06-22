@@ -1,0 +1,26 @@
+.main {
+    width: 100%;
+    background-color: rgb(175, 157, 99);
+    
+}
+
+#cardtitle {
+    
+    font-size: 37px;
+    
+}
+.title {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+.news {
+    background-image: url("newsprint.jpg");
+    background-attachment: fixed;
+}
+
+.inputarea {
+    background-color: rgba(238, 238, 231, 0.582);
+    border-radius: 8px;
+    margin: 25px;
+}

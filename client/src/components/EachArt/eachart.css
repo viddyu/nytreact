@@ -1,0 +1,18 @@
+.linktext {
+    color: black;
+}
+
+.savedindi {
+    background-color: rgb(238, 238, 231);
+    
+}
+
+#summary {
+    padding: 20px;
+   margin: 15px;
+
+}
+
+.textcard {
+    border-radius: 10px;
+}
